@@ -1,0 +1,29 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/jundcoin_bg.qm</file>
+        <file alias="ca">locale/jundcoin_ca.qm</file>
+        <file alias="cs">locale/jundcoin_cs.qm</file>
+        <file alias="da">locale/jundcoin_da.qm</file>
+        <file alias="de">locale/jundcoin_de.qm</file>
+        <file alias="en">locale/jundcoin_en.qm</file>
+        <file alias="en_US">locale/jundcoin_en_US.qm</file>
+        <file alias="es">locale/jundcoin_es.qm</file>
+        <file alias="fi">locale/jundcoin_fi.qm</file>
+        <file alias="fr_FR">locale/jundcoin_fr_FR.qm</file>
+        <file alias="it">locale/jundcoin_it.qm</file>
+        <file alias="ja">locale/jundcoin_ja.qm</file>
+        <file alias="ko_KR">locale/jundcoin_ko_KR.qm</file>
+        <file alias="nl">locale/jundcoin_nl.qm</file>
+        <file alias="pl">locale/jundcoin_pl.qm</file>
+        <file alias="pt">locale/jundcoin_pt.qm</file>
+        <file alias="pt_BR">locale/jundcoin_pt_BR.qm</file>
+        <file alias="ro_RO">locale/jundcoin_ro_RO.qm</file>
+        <file alias="ru">locale/jundcoin_ru.qm</file>
+        <file alias="sk">locale/jundcoin_sk.qm</file>
+        <file alias="sv">locale/jundcoin_sv.qm</file>
+        <file alias="tr">locale/jundcoin_tr.qm</file>
+        <file alias="uk">locale/jundcoin_uk.qm</file>
+        <file alias="zh_CN">locale/jundcoin_zh_CN.qm</file>
+        <file alias="zh_TW">locale/jundcoin_zh_TW.qm</file>
+    </qresource>
+</RCC>

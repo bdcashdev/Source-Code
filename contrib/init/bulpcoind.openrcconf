@@ -1,0 +1,26 @@
+# /etc/conf.d/jundcoind: config file for /etc/init.d/jundcoind
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/jundcoin/jundcoin.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/jundcoind"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/jundcoind.pid"
+
+# Where to write jundcoind data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/jundcoind"
+
+# User and group to own jundcoind process
+#BITCOIND_USER="jundcoin"
+#BITCOIND_GROUP="jundcoin"
+
+# Path to jundcoind executable
+#BITCOIND_BIN="/usr/bin/jundcoind"
+
+# Nice value to run jundcoind under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""
